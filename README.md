@@ -3,12 +3,12 @@ FormIA actúa como un agente inteligente que no solo responde a preguntas sobre 
 
 ## Tenemos un instalador para Autocad y otro para Bricscad.
 
-| FormIA | Link de cada versión |
-| - | -- |
-| ACad | [ExeARXFormIA](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2021) |
-| ACad | [FilesARXFormIA](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2022) |
-| BCad | [ExeBRXFormIA](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2023) |
-| BCad | [FilesBRXFormIA](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2024) |
+| FormIA | Instalacion | Link de cada versión |
+| - | - | -- |
+| ACad | Automatico | [ExeARXFormIA](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2021) |
+| ACad | Manual | [FilesARXFormIA](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2022) |
+| BCad | Automatico | [ExeBRXFormIA](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2023) |
+| BCad | Manual | [FilesBRXFormIA](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2024) |
 
 ## Instalación
 1. Descomprimir el archivo .rar en una carpeta.
