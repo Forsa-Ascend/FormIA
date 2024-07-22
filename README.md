@@ -1,6 +1,15 @@
 ![img1](Assets/formia.png)
 FormIA actúa como un agente inteligente que no solo responde a preguntas sobre los procesos BIM y procesos internos de tu compañía, sino que también ejecuta operaciones directamente en software BIM. Este agente de IA se integra en los proyectos desde la resolución de dudas hasta la creación de modelos detallados y la gestión de la ingeniería y fabricación.
 
+## Tenemos un programa para cada versión de revit.
+
+| AscendBIMTools | Link de cada versión |
+| - | -- |
+| v.2021 | [AscendBIMTools2021](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2021) |
+| v.2022 | [AscendBIMTools2022](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2022) |
+| v.2023 | [AscendBIMTools2023](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2023) |
+| v.2024 | [AscendBIMTools2024](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2024) |
+
 ## Instalación
 1. Descomprimir el archivo .rar en una carpeta.
 2. Abrir el archivo con el nombre "setup".
