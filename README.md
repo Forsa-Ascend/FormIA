@@ -5,9 +5,7 @@ FormIA actúa como un agente inteligente que no solo responde a preguntas sobre 
 
 | FormIA | Instalacion | Link de cada versión |
 | - | - | -- |
-| ACad | Automatico | [ExeARXFormIA](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2021) |
 | ACad | Manual | [FilesARXFormIA](https://github.com/Forsa-Ascend/FormIA/releases/download/FilesARXFormIA/FilesARXFormIA.rar) |
-| BCad | Automatico | [ExeBRXFormIA](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2023) |
 | BCad | Manual | [FilesBRXFormIA](https://github.com/Forsa-Ascend/AscendBIMToolsVersions/releases/tag/v.2024) |
 
 ## Instalación
