@@ -5,7 +5,7 @@ FormIA actúa como un agente inteligente que no solo responde a preguntas sobre 
 
 | FormIA | Instalacion | Link de cada versión |
 | - | - | -- |
-| ACad | Manual | [FilesARXFormIA](https://github.com/Forsa-Ascend/FormIA/releases/download/FilesARXFormIA/FilesARXFormIA.rar) |
+| ACad | Manual | [FilesARXFormIA](https://github.com/Forsa-Ascend/FormIA/releases/download/FilesBRXFormIA1.0.04/BRXFormIA.rar) |
 | BCad | Manual | [FilesBRXFormIA](https://github.com/Forsa-Ascend/FormIA/releases/download/FilesBRXFormIA/BRXFormIA.rar) |
 
 ## Instalación
